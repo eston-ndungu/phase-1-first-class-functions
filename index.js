@@ -17,4 +17,6 @@ function returnsANamedFunction() {
         return function () { // return anonymous function directly without defining it first
             console.log('This is an anonymous function')
         }
-    }
+    } 
+
+    
